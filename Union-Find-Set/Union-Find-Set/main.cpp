@@ -102,6 +102,6 @@ bool equationsPossible(vector<string>& equations) {
 
 int main()
 {
-	UnionFindSet<int> ufs(10);
+	UnionFindSet ufs(10);
 	return 0;
 }
